@@ -10,4 +10,4 @@ These are useful for actors interacting, where the same group of people are send
 
 Further Reading
 ===============
-http://optional.is/required/2014/07/13/world-cup-visualization
+http://optional.is/required/2014/07/14/2014-world-cup-visualization/ ‎
