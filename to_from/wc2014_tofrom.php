@@ -42,7 +42,7 @@ array(
 	
 	// Group Stage
 	"Croatia"        =>array("Brazil","Mexico","Cameroon","Cameroon","Cameroon","Cameroon"),
-	"Australia"      =>array("Netherlands","Netherlands","Chile","Australia","Australia","Australia"),
+	"Australia"      =>array("Netherlands","Netherlands","Chile"),
 
 	"Ivory Coast"    =>array("Colombia","Greece","Japan","Japan"), 
 	"Bosnia and Herzegovina" =>array("Argentina","Iran","Iran","Iran"),
@@ -58,7 +58,7 @@ array(
 	"Russia"         =>array("Algeria","Korea Republic"), 
 
 	"Cameroon"       =>array("Brazil",),
-	"Spain"          =>array("Netherlands",), 
+	"Spain"          =>array("Netherlands","Australia","Australia","Australia"), 
 	"Honduras"       =>array("Ecuador"), 
 	"Iran"           =>array("Bosnia and Herzegovina"), 
 	
